@@ -1,0 +1,17 @@
+/*
+html {
+  cursor: none;
+}
+
+button:hover {
+  cursor: none;
+}
+*/
+
+.App {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-color: black;
+}

@@ -1,0 +1,8 @@
+.FrameCounter {
+    font-family: 'Consolas', monaco, monospace;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: yellow;
+    z-index: 2;
+}

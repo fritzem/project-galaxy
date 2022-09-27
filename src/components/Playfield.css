@@ -1,0 +1,17 @@
+.Playfield {
+  padding: 0.5em;
+}
+
+.Playfield-grid-container {
+  display: inline-grid;
+  justify-content: center;
+  border: 5px solid #f0f0f0;
+}
+
+.Playfield-block {
+  display: grid;
+}
+
+.Playfield-block-inner {
+  grid-area: 1/1;
+}

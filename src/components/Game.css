@@ -1,0 +1,30 @@
+.Game {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Game-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.Game-info {
+    display: flex;
+    flex-direction: row;
+    padding: 2em;
+}
+
+.GameLabel {
+    padding: 0.25em;
+}
+
+.GameLabel-inner {
+    color: white;
+    border: 5px white solid;
+    /*padding: 0.5em;*/
+}
