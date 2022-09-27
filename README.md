@@ -1,3 +1,8 @@
+# About Project-Galaxy 
+
+A couple of days of collaborative effort between me and @swansonmp to learn React and remake our hackathon entry [Tetris Galaxy](https://github.com/swansonmp/tetrisGalaxy).\
+Potentially the inheritor of the title of Super Tetris Galaxy.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
