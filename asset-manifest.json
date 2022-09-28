@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Project-Galaxy/static/css/main.928dfbf2.css",
+    "main.js": "/Project-Galaxy/static/js/main.4bb96f02.js",
+    "static/js/787.253c8097.chunk.js": "/Project-Galaxy/static/js/787.253c8097.chunk.js",
+    "index.html": "/Project-Galaxy/index.html",
+    "main.928dfbf2.css.map": "/Project-Galaxy/static/css/main.928dfbf2.css.map",
+    "main.4bb96f02.js.map": "/Project-Galaxy/static/js/main.4bb96f02.js.map",
+    "787.253c8097.chunk.js.map": "/Project-Galaxy/static/js/787.253c8097.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.928dfbf2.css",
+    "static/js/main.4bb96f02.js"
+  ]
+}
